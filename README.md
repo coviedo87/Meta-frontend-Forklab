@@ -9,3 +9,5 @@ Use this repository as a workaround until Meta fixes the class repo
 5. add/commit/push changes
 6. accept pull request
 7. Congratulations!
+
+### Note: this can be used for the final quiz as well! Happy Coding 🪅
